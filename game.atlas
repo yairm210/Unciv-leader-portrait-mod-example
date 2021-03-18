@@ -1,0 +1,27 @@
+
+game.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Catherine
+  rotate: false
+  xy: 727, 334
+  size: 390, 390
+  orig: 390, 390
+  offset: 0, 0
+  index: -1
+LeaderIcons/Harald Bluetooth
+  rotate: false
+  xy: 2, 2
+  size: 723, 722
+  orig: 723, 722
+  offset: 0, 0
+  index: -1
+LeaderIcons/Isabella
+  rotate: false
+  xy: 1119, 350
+  size: 374, 374
+  orig: 374, 374
+  offset: 0, 0
+  index: -1
